@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Alternatively, install them manually:
 
 ```bash
-pip install opencv-python mediapipe pyautogui
+pip install opencv-python mediapipe pyautogui pynput
 ```
 
 ## Usage
@@ -76,7 +76,7 @@ virtual-mouse/
 
 This project is licensed under the MIT License. Feel free to modify and use it.
 
-## 👷‍♂️ Author
+## Author
 
 **Dhruv Pharasi**
 
